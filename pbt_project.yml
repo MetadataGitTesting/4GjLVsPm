@@ -1,0 +1,50 @@
+name: hoyt.prohaska
+description: intranet
+version: 0.0.1-SNAPSHOT
+author: cs00w0i6.wxujbmvf@ajcy80nh.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: hoytprohaska
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 21:07:03'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 21:07:03'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T21:07:03.680148Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '656342025'
+  createdAt: '2025-12-05T21:07:03.680148Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
