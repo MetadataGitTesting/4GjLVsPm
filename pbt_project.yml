@@ -1,6 +1,6 @@
 name: hoyt.prohaska
 description: intranet
-version: v1.3.0
+version: v1.3.0-SNAPSHOT
 author: cs00w0i6.wxujbmvf@ajcy80nh.com
 language: scala
 buildSystem: ''
